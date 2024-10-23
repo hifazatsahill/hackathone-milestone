@@ -1,0 +1,83 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+
+.infocontainer{
+    background-color: rgb(154, 181, 248);
+    height: 78vw;
+    width: 80vw;
+    margin: 140px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.h {
+    text-align: center;
+    padding-top: 0%;
+    margin-bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: inherit;
+}
+.img{
+    margin-left: 5px;
+    padding: 5px;
+    height: 0px;
+    width: 0px;
+}
+.Pasport picture{
+
+    width: 150px;
+    height: 150px;
+}
+.title{
+
+   margin: 120px;
+   padding-left: 50%;
+}
+.title h1{
+    margin: 10px;
+}
+.hello{
+
+    margin: 100px;
+    margin-right: 10%;
+    
+}
+.hello h3{
+    
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.personal_Data{
+   margin-top: 50px;
+}
+.personal_info{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.experience1 {
+    margin: 50px;
+    padding: 0px;
+    margin-left: 0px;
+}
+.skill1{
+    margin: 50px;
+}
+.ref{
+    margin: 50px;
+    margin-left: 0px; 
+    font-size: 15px;
+}
+.ref ol{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+.mr {
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(138, 13, 115);
+    font-weight: bold;
+}
